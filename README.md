@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinem Ezgi Ceylan</h1>
-<h3 align="center">Intern Software Developer</h3>
-
-- 🌱 I’m currently learning **Java, SpringBoot**
+<h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **sinemezgic0@gmail.com**
 
